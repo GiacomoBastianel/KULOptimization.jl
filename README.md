@@ -1,2 +1,2 @@
 # KULOptimization.jl
-Package containing the functions used within ELECTA's Optimization group
+Package containing the optimization methods used and developed within ELECTA's Optimization group
